@@ -1,4 +1,3 @@
 any text of any kind
-changes for a new branch
 more text
 git change
